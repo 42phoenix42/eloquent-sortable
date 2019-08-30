@@ -35,5 +35,7 @@
         "psr-4": {
             "Spatie\\EloquentSortable\\Test\\": "tests"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
 }
